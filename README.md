@@ -32,4 +32,4 @@ of the original data
 
 # Achivements
 
-Going ahead with the **K-weighted** approach we obtain the maximum accuracy/effieciency during the test of the model, while other approaches yoeld lesser during the same.
+Going ahead with the **K-weighted** approach we obtain the maximum accuracy/effieciency during the test of the model, while other approaches failed to yield.
