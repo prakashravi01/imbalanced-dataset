@@ -16,7 +16,7 @@ The following methods can be applied for solving the above stated :
 -       Under Sampling
 -       Focal Loss Under Sampling
 -       Ensemble Over Sampling
--       K - wieghted classification
+-       Class - Weight Approach
 
 # Failures of the Approaches :
 
@@ -32,4 +32,4 @@ of the original data
 
 # Achivements
 
-Going ahead with the **K-weighted** approach we obtain the maximum accuracy/effieciency during the test of the model, while other approaches failed to yield.
+Going ahead with the **Class - weight** approach we obtain the maximum accuracy/effieciency during the test of the model, while other approaches failed to yield.
