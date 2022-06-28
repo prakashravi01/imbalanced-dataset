@@ -15,7 +15,7 @@ The following methods can be applied for solving the above stated :
 -       Over Sampling
 -       Under Sampling
 -       Focal Loss Under Sampling
--       Ensemble Over Sampling
+-       Synthetic Minority Over Sampling (SMOTE)
 -       Class - Weight Approach
 
 # Failures of the Approaches :
@@ -23,7 +23,7 @@ The following methods can be applied for solving the above stated :
 -       Over Sampling (or Random Over Sampling) asks for generating a huge number of samples for the minority class(es) which wastes a lot of memory unnecessarily
 -       Under Sampling ignores a lot of "potential" information which might be of use to the model
 -       Focal Loss is another statistical approach towards Over Sampling which again associates to the requirement of unnecessary wastage of the device's memory
--       Ensemble method is another approach towards Over Sampling where one creates a synthetic sample of the minority samples and the "nearby" majority samples
+-       SMOTE is another approach towards Over Sampling where one creates a synthetic sample of the minority samples and the "K-nearby" majority samples
 
 # Resolution
 
